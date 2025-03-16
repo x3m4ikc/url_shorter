@@ -1,0 +1,6 @@
+env:  string
+storage_path: string
+http_server:
+  address: string
+  timeout: string
+  idle_timeout: string
